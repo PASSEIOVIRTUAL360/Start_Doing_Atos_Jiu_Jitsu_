@@ -1,4 +1,7 @@
 {
+ "name": "START DOING",
+ "display": "fullscreen",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "START DOING",
- "display": "fullscreen",
  "theme_color": "#000000",
- "start_url": "index.htm",
  "background_color": "#000000"
 }
